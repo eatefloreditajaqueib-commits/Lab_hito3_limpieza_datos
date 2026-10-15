@@ -1,0 +1,201 @@
+﻿id,nombre,edad,genero,pais,ingresos,fecha_nacimiento,email,telefono,categoria
+1,Carlos,56,Femenino,México,35263.33052346673,2012-12-17,carlos0@gmail.com,+52 194 648 4120,D
+2,Ana,69,Femenino,Colombia,38856.8538246956,2008-07-24,ana1@yahoo.com,+521409942192,C
+3,Laura,46,Masculino,Colombia,40621.05696766319,1991-04-06,laura2@hotmail.com,+526723228854,A
+4,José,32,Masculino,España,40532.81642575492,1952-02-04,josé3@hotmail.com,,D
+5,José,60,Masculino,Argentina,9104.274637191063,1997-06-10,josé4aoutlookcom,+52 590 348 4350,B
+6,María,25,Masculino,Colombia,27167.97,1989-02-14,maría5@yahoo.com,52-389-489-8639,C
+7,Carlos,38,Femenino,España,7590.144200748993,1966-11-03,carlos6@outlook.com,+526256098635,D
+8,Carmen,56,Masculino,Colombia,29728.8,,carmen7ayahoocom,+52 959 427 4328,C
+9,Carlos,36,Masculino,España,24868.87,1993-11-23,,+52 326 859 3390,B
+10,Miguel,40,Masculino,Argentina,44946.68822412349,1956-01-08,miguel9@outlook.com,+52 837 527 5836,D
+11,Sofía,28,Masculino,México,20791.18,2006-06-22,sofía10@yahoo.com,52-953-351-9180,A
+12,Ana,28,Femenino,Argentina,10268.015739242262,2004-12-22,ana11agmailcom,52-881-941-9005,C
+13,Ana,41,Masculino,México,11434.625692377613,1959-06-15,ana12@gmail.com,+522728506770,D
+14,Carlos,43,Masculino,Colombia,39267.98,1974-12-07,carlos13@outlook.com,52-655-757-1962,D
+15,José,57,Masculino,Colombia,32819.81,1987-12-12,josé14@outlook.com,52-937-784-1794,C
+16,José,43,Femenino,Colombia,9550.52042552556,1998-10-06,josé15@outlook.com,+52 336 169 3474,B
+17,Carmen,20,Femenino,México,8784.806275174884,2006-04-18,carmen16@hotmail.com,52-732-753-8916,C
+18,Miguel,39,Masculino,España,36543.61,1973-01-11,,,A
+19,Ana,19,Masculino,Colombia,8274.335286388708,1977-09-08,ana18@yahoo.com,52-117-614-8054,B
+20,Carmen,41,Masculino,Argentina,41983.70266806603,2013-08-14,carmen19@gmail.com,+52 198 636 3439,A
+21,José,61,Masculino,México,36780.9,2011-05-20,josé20@outlook.com,+524623737502,A
+22,Carmen,47,Masculino,España,8660.7,2004-09-12,carmen21@outlook.com,+523498134700,C
+23,Sofía,55,Masculino,Argentina,8817.7,1963-04-04,sofía22@hotmail.com,+52 978 765 1519,D
+24,José,19,Femenino,Argentina,49398.78103255289,1992-01-19,josé23@gmail.com,52-157-752-1154,B
+25,Luis,38,Masculino,Colombia,21842.185809025414,1953-11-10,luis24@hotmail.com,52-760-903-6427,A
+26,Miguel,50,Femenino,México,21678.89661801009,1962-03-07,miguel25ayahoocom,,D
+27,Laura,29,Femenino,México,41575.98052658761,1981-03-01,laura26@outlook.com,52-586-377-1762,D
+28,Ana,43,Femenino,Argentina,47626.18598227365,2007-02-26,,+526566771539,D
+29,María,61,Femenino,Colombia,49370.04787202919,1999-02-12,maría28@gmail.com,52-312-701-3362,B
+30,Sofía,42,Femenino,Argentina,38902.02,1989-12-18,sofía29@hotmail.com,52-178-406-3661,D
+31,Pedro,66,Femenino,España,21931.68,1952-03-15,pedro30@yahoo.com,+527936536435,C
+32,Laura,44,Femenino,Argentina,8757.53,1986-03-14,laura31@hotmail.com,52-805-841-2284,A
+33,María,59,Masculino,España,39971.61121673466,1953-07-03,maría32@yahoo.com,,D
+34,José,43,Femenino,Argentina,30128.191238111227,1986-02-13,josé33@gmail.com,,A
+35,Pedro,33,Masculino,España,24089.99,1969-05-24,pedro34@outlook.com,52-602-333-6829,B
+36,Carlos,32,Femenino,México,45785.95,2011-04-01,carlos35@outlook.com,+52 699 776 7227,A
+37,Carlos,64,Masculino,México,10003.89,2010-03-30,carlos36@gmail.com,+52 830 175 2344,D
+38,Sofía,43,Masculino,Colombia,27168.13,1980-05-16,sofía37aoutlookcom,+52 257 857 7383,B
+39,Carlos,61,Femenino,Argentina,27167.97,1998-08-28,carlos38@hotmail.com,52-415-555-6896,B
+40,Pedro,69,Femenino,México,26089.73,1985-04-07,pedro39ahotmailcom,+52 541 559 9395,B
+41,Pedro,20,Femenino,Colombia,7533.65,1992-06-26,pedro40@yahoo.com,52-195-711-6315,B
+42,Miguel,54,Femenino,Argentina,10346.81,2002-03-12,miguel41agmailcom,52-897-186-4977,B
+43,Laura,68,Masculino,España,10288.68,1955-10-08,laura42@yahoo.com,+52 242 375 5933,A
+44,Ana,24,Femenino,Argentina,34214.46359522286,2017-03-27,,+52 382 531 5911,D
+45,Luis,38,Femenino,México,38572.01956694405,1994-01-16,luis44@yahoo.com,52-352-838-9123,A
+46,Carmen,26,Masculino,México,27167.97,2006-06-03,carmen45@hotmail.com,+52 411 106 7483,D
+47,Carlos,56,Masculino,España,48297.76468135438,1963-03-25,carlos46@outlook.com,+524375506484,B
+48,Sofía,35,Masculino,Argentina,21869.17607856668,2002-06-09,sofía47@gmail.com,+527082395922,B
+49,Carlos,21,Masculino,España,17857.043882683734,1958-09-22,carlos48@gmail.com,52-421-281-7524,C
+50,Carmen,43,Femenino,México,44086.96,1957-01-17,carmen49@hotmail.com,+52 602 689 4971,C
+51,Laura,31,Femenino,España,15061.81273337537,1985-01-25,laura50@yahoo.com,52-473-216-4273,A
+52,Miguel,67,Femenino,México,48345.01,1957-02-12,miguel51@gmail.com,52-663-127-8563,A
+53,Pedro,26,Femenino,Colombia,5546.951361041735,,pedro52@hotmail.com,52-951-809-2133,D
+54,Miguel,43,Masculino,Argentina,48644.54720184376,1973-01-28,,+52 611 242 5961,D
+55,José,19,Femenino,México,6942.196037775925,1953-07-28,josé54@hotmail.com,+52 908 486 2211,C
+56,Carlos,37,Femenino,Argentina,45101.4401164132,2015-12-01,carlos55@hotmail.com,52-647-618-7853,C
+57,Ana,45,Masculino,Colombia,28746.55,2010-12-13,ana56@gmail.com,+52 931 649 2392,D
+58,José,43,Masculino,México,49683.41582536852,1998-06-03,josé57@yahoo.com,52-270-762-1725,A
+59,Laura,24,Masculino,México,8320.84541309295,2001-10-25,laura58@hotmail.com,+52 870 439 8052,D
+60,Carlos,61,Femenino,México,29923.442798059437,2000-06-22,,+52 864 631 4621,A
+61,José,25,Masculino,Argentina,48618.61,2013-07-02,josé60@hotmail.com,+527028079199,D
+62,Carlos,64,Masculino,México,28539.4,1973-08-21,carlos61@outlook.com,+524025252406,B
+63,Sofía,52,Femenino,España,33322.94,1981-02-19,sofía62@hotmail.com,52-419-451-8460,B
+64,Laura,31,Masculino,México,36308.69100430777,1974-08-19,laura63@yahoo.com,+52 199 548 8412,A
+65,Luis,34,Femenino,Argentina,25454.347914549795,1995-01-23,luis64@hotmail.com,52-217-123-6620,A
+66,Pedro,53,Masculino,España,33240.11,2013-12-21,pedro65@yahoo.com,+52 858 349 9454,A
+67,María,67,Masculino,Colombia,31294.14403653951,1964-12-28,maría66@yahoo.com,52-573-337-7636,C
+68,Pedro,43,Femenino,Argentina,45552.11047209451,2017-05-25,pedro67@hotmail.com,+52 505 129 4232,C
+69,Pedro,21,Masculino,España,7045.087115365604,1969-09-02,pedro68@outlook.com,52-319-310-5560,D
+70,José,19,Masculino,Colombia,17643.343531650364,2010-09-23,josé69@gmail.com,+52 204 918 9796,C
+71,Laura,23,Femenino,Colombia,27167.97,2014-05-30,laura70@hotmail.com,52-368-786-9019,D
+72,Carlos,43,Femenino,Argentina,45061.870275091234,1985-02-04,carlos71@gmail.com,+527255012871,D
+73,Miguel,21,Femenino,Argentina,25504.553875357084,1954-06-11,miguel72@outlook.com,52-933-789-5873,D
+74,María,46,Masculino,México,32905.96690106916,1993-10-10,,+52 420 220 4908,A
+75,Carmen,35,Femenino,Argentina,17482.15323415097,1972-01-07,carmen74@hotmail.com,52-623-497-7852,B
+76,José,43,Masculino,Argentina,13465.45,1995-10-17,josé75@outlook.com,,C
+77,María,61,Masculino,México,25866.4282222992,2000-07-15,maría76@gmail.com,+52 668 270 9022,D
+78,Luis,51,Femenino,Colombia,20900.85026117237,,luis77aoutlookcom,52-734-154-6882,B
+79,Sofía,27,Femenino,México,31264.525033289243,1992-11-02,sofía78@hotmail.com,52-493-675-9281,D
+80,Laura,53,Femenino,Argentina,8498.06,1996-08-16,laura79@outlook.com,+52 827 960 8272,A
+81,Carmen,31,Femenino,Argentina,48847.76634497749,1961-09-03,carmen80@gmail.com,+52 879 325 5785,D
+82,José,48,Masculino,España,49379.48,1988-06-30,josé81@hotmail.com,52-899-568-9115,C
+83,Pedro,65,Masculino,México,27167.97,2011-08-29,pedro82@outlook.com,52-893-656-7010,B
+84,Ana,32,Masculino,México,27167.97,1991-07-01,ana83@hotmail.com,52-551-659-4580,A
+85,José,25,Femenino,Colombia,18928.742732884748,1973-03-09,josé84@outlook.com,52-869-353-5877,D
+86,Ana,31,Masculino,España,41620.78,1981-12-08,ana85@gmail.com,+529829362425,C
+87,Pedro,40,Femenino,España,35812.90276492457,1958-02-17,pedro86@hotmail.com,52-342-314-6744,C
+88,Sofía,57,Femenino,Colombia,12317.762270520108,1958-04-17,sofía87@hotmail.com,52-730-242-4385,A
+89,Laura,38,Masculino,Colombia,27167.97,2015-10-14,laura88@outlook.com,+526453879827,C
+90,Carlos,33,Femenino,España,42014.1759315426,2002-03-14,carlos89@yahoo.com,52-686-373-9428,C
+91,José,62,Masculino,Argentina,47740.99609813658,1959-12-09,josé90@outlook.com,,C
+92,Miguel,35,Masculino,Colombia,37657.3778774762,2006-06-05,miguel91@yahoo.com,+522298183174,C
+93,Pedro,64,Femenino,México,32603.683817110545,1958-05-26,pedro92@yahoo.com,+52 879 963 7434,D
+94,José,41,Femenino,Colombia,23820.94,1966-08-04,josé93@hotmail.com,+525244848405,A
+95,Luis,43,Masculino,España,46972.78,1998-08-27,luis94@outlook.com,52-512-627-5558,B
+96,Sofía,42,Femenino,Colombia,27167.97,2002-09-15,sofía95@gmail.com,52-599-435-1040,B
+97,Luis,62,Masculino,Argentina,7034.840154778523,2007-12-20,luis96@outlook.com,52-569-750-6869,C
+98,María,58,Masculino,Argentina,6186.51,1981-08-21,maría97@gmail.com,+52 539 944 4470,D
+99,Laura,46,Femenino,España,21940.85150951223,2009-11-21,laura98@yahoo.com,52-660-691-3139,C
+100,María,32,Masculino,Argentina,41474.9,1985-10-25,maría99@yahoo.com,+52 798 880 1793,C
+101,José,62,Femenino,México,49427.4258191725,,josé100@outlook.com,,D
+102,Carmen,18,Femenino,Argentina,11768.760099658768,,carmen101@gmail.com,,A
+103,Carmen,42,Masculino,Argentina,31735.88219084608,2005-05-26,carmen102@yahoo.com,52-997-380-2529,B
+104,Laura,24,Femenino,Argentina,22140.08854839597,2009-09-07,laura103@yahoo.com,+52 764 269 1848,D
+105,Miguel,43,Masculino,Colombia,27167.97,2015-11-19,miguel104aoutlookcom,52-339-539-2494,B
+106,Sofía,41,Masculino,Colombia,42895.35154110689,,sofía105@gmail.com,52-235-707-4705,D
+107,Miguel,18,Femenino,Argentina,42724.791712001206,2017-10-18,miguel106ahotmailcom,52-451-936-2975,D
+108,Sofía,61,Masculino,España,26091.19,1980-03-30,sofía107@outlook.com,+521723347276,C
+109,Pedro,25,Masculino,Argentina,23666.87760519493,1998-07-05,pedro108@hotmail.com,,A
+110,José,41,Femenino,Colombia,17303.31823688178,2006-03-22,josé109@hotmail.com,+52 756 793 3340,B
+111,María,28,Masculino,Argentina,7536.89734929172,2013-05-20,maría110@yahoo.com,52-268-550-6753,A
+112,Carmen,68,Masculino,Colombia,43912.506931477394,1957-06-04,carmen111@hotmail.com,52-521-730-8248,C
+113,Luis,34,Masculino,México,41580.54541085349,1963-04-16,luis112@outlook.com,+52 870 226 7291,D
+114,Carlos,25,Femenino,España,49987.3,2011-11-13,carlos113@hotmail.com,+52 353 383 2380,B
+115,Ana,52,Masculino,México,49848.657668325744,2015-05-03,ana114aoutlookcom,52-391-897-1439,A
+116,Carlos,52,Masculino,Argentina,29994.426752118237,2009-08-31,carlos115ahotmailcom,+52 630 721 9348,B
+117,María,50,Masculino,Colombia,39604.43,1971-02-15,,+52 902 912 4921,B
+118,María,22,Masculino,México,47514.46,1974-06-26,maría117@gmail.com,52-708-172-9655,B
+119,Sofía,59,Femenino,España,43234.13258048352,1992-06-16,sofía118@hotmail.com,52-424-235-7337,A
+120,Miguel,56,Masculino,Colombia,16130.664578443895,1993-05-01,miguel119ahotmailcom,52-799-276-8717,B
+121,Carlos,58,Masculino,México,25274.486088954207,1954-10-29,carlos120@yahoo.com,,A
+122,Sofía,45,Femenino,Colombia,10812.17,1993-05-25,sofía121@yahoo.com,52-507-618-5693,D
+123,Sofía,24,Masculino,España,47932.3,1983-03-01,sofía122@yahoo.com,52-818-511-2350,A
+124,Miguel,26,Femenino,Argentina,32277.8585502896,2014-04-20,miguel123@outlook.com,52-185-417-2294,C
+125,Luis,25,Masculino,España,15288.926247655823,2015-11-14,luis124@yahoo.com,52-649-434-7401,B
+126,Carmen,29,Femenino,España,35226.53079826356,1984-08-22,,52-758-167-6081,C
+127,Laura,51,Masculino,Colombia,32815.770820605314,1966-10-06,laura126@outlook.com,52-159-350-2412,C
+128,Carmen,50,Femenino,Colombia,21117.322311477823,1951-04-27,carmen127@hotmail.com,+521564163877,D
+129,Ana,65,Masculino,España,10110.091648983307,1989-10-19,ana128@gmail.com,52-267-608-6680,D
+130,Carlos,40,Masculino,España,35220.79,1950-06-03,carlos129agmailcom,52-270-480-3079,A
+131,Carmen,41,Masculino,España,28413.8465406707,1970-11-09,carmen130ayahoocom,+52 220 889 1480,A
+132,Laura,43,Masculino,México,39754.32762810377,1954-03-05,laura131@outlook.com,+52 369 829 2262,B
+133,Pedro,52,Masculino,Argentina,28407.36,1955-10-22,pedro132ahotmailcom,+52 979 680 3734,C
+134,Carlos,61,Femenino,México,43348.17,1991-03-15,carlos133agmailcom,+52 687 790 2889,D
+135,Laura,57,Femenino,México,29835.80774485185,1956-01-06,laura134aoutlookcom,,D
+136,Sofía,39,Femenino,Argentina,30242.20871909238,,sofía135aoutlookcom,52-283-978-1579,B
+137,María,44,Femenino,Argentina,27167.97,2010-08-18,maría136@outlook.com,+525293296272,D
+138,Luis,52,Masculino,Colombia,23156.728979557865,1953-05-25,luis137@hotmail.com,+52 945 179 7108,C
+139,Ana,18,Masculino,México,11030.685280278833,1950-02-03,ana138@hotmail.com,52-328-923-9450,C
+140,Laura,52,Femenino,Argentina,6295.220434100253,1974-12-31,laura139@hotmail.com,52-576-986-5625,B
+141,Carmen,54,Masculino,México,38981.176505312855,1999-05-07,carmen140@yahoo.com,+52 567 108 7044,C
+142,María,64,Masculino,Argentina,27167.97,2011-10-17,maría141@outlook.com,,A
+143,Carmen,31,Masculino,Argentina,27167.97,1983-09-17,carmen142@gmail.com,52-894-300-9954,C
+144,Carlos,20,Masculino,México,14583.387267900984,1986-07-21,,52-519-124-4817,A
+145,Laura,18,Masculino,España,11136.71640140464,2016-09-05,laura144@gmail.com,52-109-443-1023,D
+146,Carmen,22,Femenino,México,5654.509955054687,1984-01-01,carmen145ahotmailcom,52-414-206-4361,A
+147,Miguel,43,Masculino,Colombia,20776.440146296864,1953-06-06,miguel146@gmail.com,,B
+148,José,31,Femenino,España,31546.295908458487,2006-05-14,josé147@yahoo.com,+526325227102,B
+149,María,56,Masculino,México,22650.98,1972-11-24,maría148@hotmail.com,+52 617 236 7461,B
+150,Pedro,44,Masculino,México,24686.371491067806,1976-06-03,pedro149@hotmail.com,+52 233 342 5778,B
+151,María,26,Masculino,Argentina,45687.14125221868,2004-07-29,maría150@hotmail.com,+52 817 951 6345,B
+152,Carmen,32,Femenino,España,20671.496016048517,2006-05-08,carmen151@yahoo.com,+52 307 239 2785,C
+153,Carmen,32,Femenino,Colombia,28129.527012191487,2014-01-18,carmen152@hotmail.com,+525162239780,D
+154,Ana,43,Masculino,Colombia,40264.39,2013-02-10,ana153@outlook.com,+525743712964,A
+155,Miguel,59,Femenino,Argentina,22844.42520445716,2001-03-20,miguel154@yahoo.com,+528218131660,A
+156,Pedro,30,Masculino,España,32993.9,1994-09-01,pedro155@gmail.com,+52 828 354 6828,D
+157,Luis,68,Masculino,Colombia,43806.37,1961-03-14,luis156@hotmail.com,52-939-278-1509,B
+158,Ana,49,Femenino,España,47728.42806459389,1969-01-21,,+526633552551,B
+159,Carlos,56,Masculino,México,27167.97,1958-03-24,carlos158@yahoo.com,+521121634641,A
+160,Pedro,43,Masculino,Colombia,46696.443132267246,2008-12-02,pedro159ahotmailcom,52-745-760-2376,B
+161,Laura,69,Masculino,España,27145.23318857922,1995-10-05,laura160@yahoo.com,52-122-166-4239,C
+162,José,49,Masculino,Argentina,16620.997473453128,1959-12-20,josé161@outlook.com,+529679496432,C
+163,Ana,21,Masculino,Colombia,25661.10903072176,2016-09-17,ana162@outlook.com,+52 687 543 7471,C
+164,José,47,Femenino,Colombia,49101.46588784647,2006-02-07,josé163@outlook.com,+52 462 319 4066,D
+165,Miguel,54,Femenino,España,27167.81,1953-03-09,miguel164@gmail.com,,D
+166,Carlos,40,Femenino,España,19793.822462937867,1982-06-17,carlos165@yahoo.com,+52 590 162 2437,C
+167,Carlos,43,Femenino,España,33503.04,2017-11-16,carlos166@hotmail.com,52-916-638-5082,D
+168,Luis,43,Masculino,Argentina,15806.552845018688,1950-12-05,luis167agmailcom,+524919006883,C
+169,Carlos,32,Masculino,Argentina,8413.849764889877,1966-02-21,carlos168@outlook.com,+52 679 614 6269,B
+170,Carmen,60,Masculino,México,10799.587485979217,1983-07-21,,+523241305602,D
+171,María,46,Masculino,Argentina,10762.06,2002-04-10,maría170@outlook.com,52-885-698-4813,C
+172,María,53,Femenino,México,11835.621208053246,1981-01-22,,52-372-646-1916,D
+173,Luis,43,Femenino,México,27167.97,1954-10-17,,52-916-497-6813,A
+174,Carmen,49,Masculino,España,33839.36351614466,2010-03-15,carmen173@yahoo.com,,A
+175,María,24,Masculino,España,13184.6,1956-08-18,maría174ayahoocom,52-128-820-6761,C
+176,Laura,68,Masculino,Colombia,20555.027749573845,1969-06-29,laura175@yahoo.com,52-292-956-9064,C
+177,Carmen,39,Femenino,México,45355.47844577053,1964-07-25,,+52 157 338 4584,C
+178,Miguel,43,Femenino,España,26328.27381182925,1993-07-10,miguel177@outlook.com,+52 728 306 3137,A
+179,Sofía,43,Femenino,México,35040.1,2012-12-14,sofía178@outlook.com,,D
+180,José,59,Masculino,Colombia,12754.394204073342,2009-08-10,josé179@hotmail.com,52-892-213-9622,A
+181,Carmen,43,Masculino,México,13653.005846390184,1982-08-19,carmen180@gmail.com,,C
+182,José,43,Femenino,España,6839.087731991549,,josé181@gmail.com,,C
+183,Laura,43,Femenino,España,12602.077838247404,2016-11-18,laura182@gmail.com,+52 810 728 6846,C
+184,Sofía,45,Masculino,España,17536.565256438138,1987-02-12,sofía183@gmail.com,,C
+185,Pedro,61,Femenino,México,12965.471792453607,2017-05-31,pedro184@outlook.com,+52 686 500 1530,C
+186,Luis,61,Masculino,Argentina,8991.614019067503,1963-05-06,,52-726-326-2705,C
+187,Carmen,37,Femenino,México,10428.61,1963-02-28,carmen186@yahoo.com,+523434556234,B
+188,Luis,47,Masculino,España,25735.04456147266,1973-11-07,luis187@hotmail.com,+52 825 786 6500,B
+189,Carlos,28,Femenino,Colombia,14285.017328260665,1983-05-10,carlos188@hotmail.com,52-169-458-5205,B
+190,José,45,Femenino,México,21392.14,2011-01-18,josé189@yahoo.com,52-548-850-7875,A
+191,José,42,Femenino,México,27653.77718846856,2014-05-13,josé190@yahoo.com,+524874599946,D
+192,Carlos,56,Femenino,Colombia,36067.76728832144,2003-07-03,carlos191@outlook.com,+52 691 766 4695,C
+193,Pedro,50,Femenino,España,6769.046292849453,1995-12-05,pedro192@outlook.com,+52 401 120 6221,B
+194,Ana,18,Masculino,México,40973.47,1982-12-24,ana193@outlook.com,52-484-264-2228,A
+195,Miguel,44,Femenino,Colombia,33255.51752709085,1962-02-17,miguel194@yahoo.com,52-708-728-8909,D
+196,Carmen,69,Masculino,Colombia,8679.156437699236,1974-02-24,carmen195@yahoo.com,,C
+197,José,30,Femenino,Colombia,44311.038084804975,2015-11-26,josé196aoutlookcom,+52 519 813 9849,C
+198,Miguel,58,Femenino,Colombia,46439.2580239316,1961-08-03,miguel197@outlook.com,+52 150 502 9043,D
+199,José,20,Femenino,México,7748.508193468869,1980-06-14,josé198@yahoo.com,+52 401 943 8869,D
+200,Ana,56,Masculino,México,17459.49416662417,1991-02-18,ana199agmailcom,52-398-183-8758,D
